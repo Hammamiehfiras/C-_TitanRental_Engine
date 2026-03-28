@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project1TitanRental_Engine/Project1TitanRental_Engine.vcxproj" Id="99cd6186-7b0d-45b2-b39b-341e72953ee9" />
+</Solution>
